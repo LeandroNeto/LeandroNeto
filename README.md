@@ -4,10 +4,10 @@
 <div align="left"> 
   
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas
-- 💼 &nbsp; Trabalhando como Desenvolvedor de Software
-- 🌱 &nbsp; Aprendendo mais sobre React e Ruby
+- 💼 &nbsp; Trabalhando como Desenvolvedor Fullstack
+- 🌱 &nbsp; Aprendendo mais sobre React
 - 🦄 &nbsp; Explorando novas tecnologias
-- 👽 &nbsp; Em busca de conhecimento
+- 👽 &nbsp; Seguindo o conselho do ET Bilu: "Busquem conhecimento"
 - ☕️ &nbsp; Aceita uma xícara de café?
   
 </div>
@@ -16,15 +16,14 @@
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
 <div>
   <a href="https://github.com/LeandroNeto"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNeto&layout=compact&langs_count=7&theme=tokyonight"/>
+    <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/-->
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNeto&layout=compact&langs_count=7&theme=tokyonight"/>
  </a>
 </div>  
   
    
 ## 🚀 Minhas Skills  
 <div style="display: inline_block">
-  <!--code style="background: white"><img align="center" alt="LeandroNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code-->
   <code><img align="center" alt="LeandroNeto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
   <code><img align="center" alt="LeandroNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img align="center" alt="LeandroNeto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
