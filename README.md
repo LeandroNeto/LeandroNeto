@@ -4,11 +4,11 @@
 <div align="left"> 
   
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas
-- 💼 &nbsp; Trabalhando como Desenvolvedor Fullstack
-- 🌱 &nbsp; Aprendendo mais sobre React
+- 💼 &nbsp; Atuando como Desenvolvedor Fullstack (C# / Delphi / ReactJS / SQLServer)
+- 🌱 &nbsp; Estudando e amando React JS
 - 🦄 &nbsp; Explorando novas tecnologias
-- 👽 &nbsp; Seguindo o conselho do ET Bilu: "Busquem conhecimento"
-- ☕️ &nbsp; Aceita uma xícara de café?
+- 👽 &nbsp; Seguindo o conselho do sábio ET Bilu: "Busquem conhecimento"
+- ☕️ &nbsp; Gostaria de entrar e tomar uma xicara de café?
   
 </div>
 &nbsp;
