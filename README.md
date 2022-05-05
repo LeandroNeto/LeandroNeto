@@ -4,10 +4,10 @@
 <div align="left"> 
   
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas
-- 💼 &nbsp; Atuando como Desenvolvedor Fullstack (C# / Delphi / ReactJS / SQLServer)
-- 🌱 &nbsp; Estudando e amando React JS
-- 🦄 &nbsp; Explorando novas tecnologias
-- 👽 &nbsp; Seguindo o conselho do sábio ET Bilu: "Busquem conhecimento"
+- 💼 &nbsp; Atuando como Desenvolvedor Fullstack
+- 🌱 &nbsp; Utilizando C# / Delphi / ReactJS / SQLServer
+- 🦄 &nbsp; Lifelong learning sempre!
+- 👽 &nbsp; Seguindo o conselho do ET Bilu: "Busquem conhecimento"
 - ☕️ &nbsp; Gostaria de entrar e tomar uma xicara de café?
   
 </div>
