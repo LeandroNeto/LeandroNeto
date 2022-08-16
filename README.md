@@ -13,7 +13,7 @@
 </div>
 &nbsp;
 
-## 🔬 Seja bem vindo(a) ao meu laboratório!
+## 🔬 Seja bem-vindo(a) ao meu laboratório!
 <div>
   <a href="https://github.com/LeandroNeto"> 
     <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/-->
